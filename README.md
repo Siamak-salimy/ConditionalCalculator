@@ -1,5 +1,5 @@
 
-##Welcome to "Conditional Calculator " . 
+## Welcome to "Conditional Calculator " . 
 In this Platform, we have created a user-friendly interface that empowers you to delve into the intricate world of gene expression analysis. By offering multiple input options, we ensure that you have the necessary tools to explore different aspects of genetic regulation.</br>
 
 Within the mRNA tab, you can enter the precise amount of gene expression for the genes of interest. This allows you to investigate the activity levels of specific genes and gain insights into their potential role in various biological processes. .</br>
