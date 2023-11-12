@@ -8,7 +8,7 @@ The methylation section offers an opportunity to examine the Beta-Value, which i
 
 Furthermore, the system provides a dedicated section for miRNA expression, enabling you to explore the intricate world of microRNAs. By inputting the relevant miRNA expression data, you can uncover potential regulatory interactions between microRNAs and target genes, expanding your understanding of gene regulatory networks.</br>
 
-Once you have entered the required data for any of these sections, a simple press of a key sets in motion our advanced algorithms. These algorithms rapidly process and analyze the information, utilizing sophisticated computational methods and statistical models. The result is a swift determination of whether the entered data falls into the Low-Risk or High-Risk category. .</br>
+Once you have entered the required data for any of these sections, a simple press of a key sets in motion our advanced algorithms. These algorithms rapidly process and analyze the information, utilizing sophisticated computational methods and statistical models. The result is a swift determination of whether the entered data falls into the Low-Risk or High-Risk category. </br>
 
 This risk-based classification holds significant implications for your research or clinical endeavors. It provides you with a valuable assessment of the potential implications associated with the gene expression patterns, methylation status, or miRNA expression levels you have provided. Armed with this information, you can make informed decisions, identify potential biomarkers, or explore therapeutic targets.</br>.
 
