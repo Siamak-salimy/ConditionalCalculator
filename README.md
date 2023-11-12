@@ -4,9 +4,9 @@ In this Platform, we have created a user-friendly interface that empowers you to
 
 Within the mRNA tab, you can enter the precise amount of gene expression for the genes of interest. This allows you to investigate the activity levels of specific genes and gain insights into their potential role in various biological processes. .</br>
 
-The methylation section offers an opportunity to examine the Beta-Value, which indicates the degree of DNA methylation. By inputting the appropriate measurements, you can unravel the epigenetic modifications that can influence gene expression patterns and potentially impact cellular functions. .</br>
+The methylation section offers an opportunity to examine the Beta-Value, which indicates the degree of DNA methylation. By inputting the appropriate measurements, you can unravel the epigenetic modifications that can influence gene expression patterns and potentially impact cellular functions.</br>
 
-Furthermore, the system provides a dedicated section for miRNA expression, enabling you to explore the intricate world of microRNAs. By inputting the relevant miRNA expression data, you can uncover potential regulatory interactions between microRNAs and target genes, expanding your understanding of gene regulatory networks. .</br>
+Furthermore, the system provides a dedicated section for miRNA expression, enabling you to explore the intricate world of microRNAs. By inputting the relevant miRNA expression data, you can uncover potential regulatory interactions between microRNAs and target genes, expanding your understanding of gene regulatory networks.</br>
 
 Once you have entered the required data for any of these sections, a simple press of a key sets in motion our advanced algorithms. These algorithms rapidly process and analyze the information, utilizing sophisticated computational methods and statistical models. The result is a swift determination of whether the entered data falls into the Low-Risk or High-Risk category. .</br>
 
